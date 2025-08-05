@@ -1,0 +1,6 @@
+goes = input ('que dia você nasceu?')
+mês = input('que mês você nasceu?')
+ano = input ('que ano você nasceu?')
+print ('você nasceu no dia', goes, 'de', mês, 'no ano de', ano)
+pergunta = input ('correto???')
+print ('cadastro feito')
